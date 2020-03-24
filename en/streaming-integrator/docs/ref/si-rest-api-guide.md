@@ -2,9 +2,9 @@
 
 The following sections cover the different categories of REST API available for the Streaming Integrator the HTTP status codes thyat they can return.
 
-### Siddhi application management APIs
+## Siddhi application management APIs
 
-#### Creating a Siddhi application
+### Creating a Siddhi application
 
 #### Overview
 
